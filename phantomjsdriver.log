@@ -1,0 +1,501 @@
+[INFO  - 2017-06-14T11:22:21.505Z] GhostDriver - Main - running on port 12135
+[INFO  - 2017-06-14T11:22:21.806Z] Session [bbe91860-50f3-11e7-be85-6d436e411bb5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:22:21.806Z] Session [bbe91860-50f3-11e7-be85-6d436e411bb5] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:22:21.807Z] Session [bbe91860-50f3-11e7-be85-6d436e411bb5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:22:21.807Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bbe91860-50f3-11e7-be85-6d436e411bb5
+[INFO  - 2017-06-14T11:30:29.950Z] GhostDriver - Main - running on port 25579
+[INFO  - 2017-06-14T11:30:30.430Z] Session [df26e540-50f4-11e7-a4c8-0f8f74d0f717] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:30:30.431Z] Session [df26e540-50f4-11e7-a4c8-0f8f74d0f717] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:30:30.431Z] Session [df26e540-50f4-11e7-a4c8-0f8f74d0f717] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:30:30.431Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: df26e540-50f4-11e7-a4c8-0f8f74d0f717
+[INFO  - 2017-06-14T11:31:23.448Z] GhostDriver - Main - running on port 1485
+[INFO  - 2017-06-14T11:31:23.686Z] Session [fee4f6b0-50f4-11e7-a8aa-357520bec715] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:31:23.686Z] Session [fee4f6b0-50f4-11e7-a8aa-357520bec715] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:31:23.686Z] Session [fee4f6b0-50f4-11e7-a8aa-357520bec715] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:31:23.686Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fee4f6b0-50f4-11e7-a8aa-357520bec715
+[INFO  - 2017-06-14T11:31:26.378Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-06-14T11:31:38.794Z] GhostDriver - Main - running on port 24418
+[INFO  - 2017-06-14T11:31:39.272Z] Session [082f59e0-50f5-11e7-8725-a3e75cde10b4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:31:39.273Z] Session [082f59e0-50f5-11e7-8725-a3e75cde10b4] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:31:39.273Z] Session [082f59e0-50f5-11e7-8725-a3e75cde10b4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:31:39.273Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 082f59e0-50f5-11e7-8725-a3e75cde10b4
+[INFO  - 2017-06-14T11:32:51.360Z] GhostDriver - Main - running on port 1407
+[INFO  - 2017-06-14T11:32:51.588Z] Session [334a5ad0-50f5-11e7-afbf-cb1cb22b4484] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:32:51.589Z] Session [334a5ad0-50f5-11e7-afbf-cb1cb22b4484] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:32:51.589Z] Session [334a5ad0-50f5-11e7-afbf-cb1cb22b4484] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:32:51.589Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 334a5ad0-50f5-11e7-afbf-cb1cb22b4484
+[INFO  - 2017-06-14T11:33:09.837Z] GhostDriver - Main - running on port 20800
+[INFO  - 2017-06-14T11:33:10.076Z] Session [3e4f6650-50f5-11e7-99d2-bd3af707e1a2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:33:10.076Z] Session [3e4f6650-50f5-11e7-99d2-bd3af707e1a2] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:33:10.076Z] Session [3e4f6650-50f5-11e7-99d2-bd3af707e1a2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:33:10.076Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3e4f6650-50f5-11e7-99d2-bd3af707e1a2
+[INFO  - 2017-06-14T11:35:38.898Z] GhostDriver - Main - running on port 14595
+[INFO  - 2017-06-14T11:35:39.250Z] Session [9738c860-50f5-11e7-b798-abf1e128f25b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:35:39.251Z] Session [9738c860-50f5-11e7-b798-abf1e128f25b] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:35:39.255Z] Session [9738c860-50f5-11e7-b798-abf1e128f25b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:35:39.255Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9738c860-50f5-11e7-b798-abf1e128f25b
+[INFO  - 2017-06-14T11:37:32.566Z] GhostDriver - Main - running on port 19631
+[INFO  - 2017-06-14T11:37:32.782Z] Session [dae52770-50f5-11e7-9b6d-5fbc6dc0c9b2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:37:32.782Z] Session [dae52770-50f5-11e7-9b6d-5fbc6dc0c9b2] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:37:32.782Z] Session [dae52770-50f5-11e7-9b6d-5fbc6dc0c9b2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:37:32.783Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: dae52770-50f5-11e7-9b6d-5fbc6dc0c9b2
+[INFO  - 2017-06-14T11:37:35.597Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-06-14T11:37:53.579Z] GhostDriver - Main - running on port 26607
+[INFO  - 2017-06-14T11:37:53.986Z] Session [e7880470-50f5-11e7-90bf-474a3bdaa48a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:37:53.986Z] Session [e7880470-50f5-11e7-90bf-474a3bdaa48a] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:37:53.987Z] Session [e7880470-50f5-11e7-90bf-474a3bdaa48a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:37:53.987Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e7880470-50f5-11e7-90bf-474a3bdaa48a
+[INFO  - 2017-06-14T11:42:53.570Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-14T11:49:05.485Z] GhostDriver - Main - running on port 1817
+[INFO  - 2017-06-14T11:49:05.878Z] Session [78024b90-50f7-11e7-a1b8-016b7a1cafbb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:49:05.879Z] Session [78024b90-50f7-11e7-a1b8-016b7a1cafbb] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:49:05.883Z] Session [78024b90-50f7-11e7-a1b8-016b7a1cafbb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:49:05.884Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 78024b90-50f7-11e7-a1b8-016b7a1cafbb
+[ERROR - 2017-06-14T11:49:06.473Z] Session [78024b90-50f7-11e7-a1b8-016b7a1cafbb] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:49:06.474Z] Session [78024b90-50f7-11e7-a1b8-016b7a1cafbb] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:49:06.749Z] Session [78024b90-50f7-11e7-a1b8-016b7a1cafbb] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:49:06.749Z] Session [78024b90-50f7-11e7-a1b8-016b7a1cafbb] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:49:07.048Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440947026
+[ERROR - 2017-06-14T11:49:07.930Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440947908
+[ERROR - 2017-06-14T11:49:08.740Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440948715
+[ERROR - 2017-06-14T11:49:09.540Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440949519
+[ERROR - 2017-06-14T11:49:10.333Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440950320
+[ERROR - 2017-06-14T11:49:11.134Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440951112
+[ERROR - 2017-06-14T11:49:11.943Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440951930
+[ERROR - 2017-06-14T11:49:12.751Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440952727
+[ERROR - 2017-06-14T11:49:13.559Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440953535
+[ERROR - 2017-06-14T11:49:14.357Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440954338
+[ERROR - 2017-06-14T11:49:15.144Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497440955134
+[INFO  - 2017-06-14T11:50:08.039Z] GhostDriver - Main - running on port 27772
+[INFO  - 2017-06-14T11:50:08.472Z] Session [9d5161b0-50f7-11e7-8e61-fb06ed1b8580] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:50:08.473Z] Session [9d5161b0-50f7-11e7-8e61-fb06ed1b8580] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:50:08.477Z] Session [9d5161b0-50f7-11e7-8e61-fb06ed1b8580] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:50:08.477Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9d5161b0-50f7-11e7-8e61-fb06ed1b8580
+[ERROR - 2017-06-14T11:50:08.927Z] Session [9d5161b0-50f7-11e7-8e61-fb06ed1b8580] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:50:08.927Z] Session [9d5161b0-50f7-11e7-8e61-fb06ed1b8580] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:50:09.173Z] Session [9d5161b0-50f7-11e7-8e61-fb06ed1b8580] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:50:09.173Z] Session [9d5161b0-50f7-11e7-8e61-fb06ed1b8580] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:50:09.462Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441009444
+[ERROR - 2017-06-14T11:50:10.340Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441010318
+[ERROR - 2017-06-14T11:50:11.145Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441011125
+[INFO  - 2017-06-14T11:55:49.281Z] GhostDriver - Main - running on port 13691
+[INFO  - 2017-06-14T11:55:49.763Z] Session [68be1a50-50f8-11e7-a5c6-81ced21a130a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:55:49.764Z] Session [68be1a50-50f8-11e7-a5c6-81ced21a130a] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:55:49.773Z] Session [68be1a50-50f8-11e7-a5c6-81ced21a130a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:55:49.773Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 68be1a50-50f8-11e7-a5c6-81ced21a130a
+[ERROR - 2017-06-14T11:55:50.332Z] Session [68be1a50-50f8-11e7-a5c6-81ced21a130a] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:55:50.332Z] Session [68be1a50-50f8-11e7-a5c6-81ced21a130a] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:55:50.614Z] Session [68be1a50-50f8-11e7-a5c6-81ced21a130a] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:55:50.615Z] Session [68be1a50-50f8-11e7-a5c6-81ced21a130a] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:55:50.909Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441350896
+[ERROR - 2017-06-14T11:55:51.793Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441351770
+[ERROR - 2017-06-14T11:55:52.590Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441352577
+[ERROR - 2017-06-14T11:55:53.391Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441353371
+[ERROR - 2017-06-14T11:55:54.185Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441354174
+[INFO  - 2017-06-14T11:59:56.796Z] GhostDriver - Main - running on port 9442
+[INFO  - 2017-06-14T11:59:57.259Z] Session [fc4325e0-50f8-11e7-bbaa-959ef5883f6a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2017-06-14T11:59:57.260Z] Session [fc4325e0-50f8-11e7-bbaa-959ef5883f6a] - page.customHeaders:  - {}
+[INFO  - 2017-06-14T11:59:57.264Z] Session [fc4325e0-50f8-11e7-bbaa-959ef5883f6a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-14T11:59:57.265Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fc4325e0-50f8-11e7-bbaa-959ef5883f6a
+[ERROR - 2017-06-14T11:59:57.763Z] Session [fc4325e0-50f8-11e7-bbaa-959ef5883f6a] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:59:57.763Z] Session [fc4325e0-50f8-11e7-bbaa-959ef5883f6a] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:59:58.015Z] Session [fc4325e0-50f8-11e7-bbaa-959ef5883f6a] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-14T11:59:58.015Z] Session [fc4325e0-50f8-11e7-bbaa-959ef5883f6a] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-14T11:59:58.314Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441598298
+[ERROR - 2017-06-14T11:59:59.187Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441599168
+[ERROR - 2017-06-14T11:59:59.984Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441599972
+[ERROR - 2017-06-14T12:00:00.789Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441600767
+[ERROR - 2017-06-14T12:00:01.591Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497441601575
+[INFO  - 2017-06-15T05:22:40.645Z] GhostDriver - Main - running on port 6232
+[INFO  - 2017-06-15T05:22:41.313Z] Session [a7585450-518a-11e7-835e-7bd3b0390b24] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:22:41.314Z] Session [a7585450-518a-11e7-835e-7bd3b0390b24] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:22:41.319Z] Session [a7585450-518a-11e7-835e-7bd3b0390b24] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:22:41.319Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a7585450-518a-11e7-835e-7bd3b0390b24
+[ERROR - 2017-06-15T05:22:41.835Z] Session [a7585450-518a-11e7-835e-7bd3b0390b24] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-15T05:22:41.843Z] Session [a7585450-518a-11e7-835e-7bd3b0390b24] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-15T05:22:42.107Z] Session [a7585450-518a-11e7-835e-7bd3b0390b24] - page.onError - msg: Error: [$injector:modulerr] Failed to instantiate module ng due to:
+TypeError: 'undefined' is not an object (evaluating 'Function.prototype.bind.apply')
+    at instantiate (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4680)
+    at provider (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4494)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:366
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:336)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4484
+    at ngModule (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:2530)
+    at invoke (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4665)
+    at runInvokeQueue (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4558)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4567
+    at forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+    at loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+    at createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746
+    at bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+    at angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317
+    at http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536
+    at completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+http://errors.angularjs.org/1.5.5/$injector/modulerr?p0=ng&p1=TypeError%3A%20'undefined'%20is%20not%20an%20object%20(evaluating%20'Function.prototype.bind.apply')%0A%20%20%20%20at%20instantiate%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4680)%0A%20%20%20%20at%20provider%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4494)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A366%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A336)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4484%0A%20%20%20%20at%20ngModule%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A2530)%0A%20%20%20%20at%20invoke%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4665)%0A%20%20%20%20at%20runInvokeQueue%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4558)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4567%0A%20%20%20%20at%20forEach%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A322)%0A%20%20%20%20at%20loadModules%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4590)%0A%20%20%20%20at%20createInjector%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A4470)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1746%0A%20%20%20%20at%20bootstrap%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1767)%0A%20%20%20%20at%20angularInit%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A1652)%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fangular%2Fangular.js%3A30863%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3187%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3317%0A%20%20%20%20at%20http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3536%0A%20%20%20%20at%20completed%20(http%3A%2F%2F10.207.166.31%3A8080%2Faviva-0.0.1-SNAPSHOT%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3552)
+[ERROR - 2017-06-15T05:22:42.108Z] Session [a7585450-518a-11e7-835e-7bd3b0390b24] - page.onError - stack:
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4588)
+  forEach (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:322)
+  loadModules (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4590)
+  createInjector (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:4470)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1746)
+  bootstrap (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1767)
+  angularInit (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:1652)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/angular/angular.js:30863)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3187)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3317)
+  (anonymous function) (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3536)
+  completed (http://10.207.166.31:8080/aviva-0.0.1-SNAPSHOT/bower_components/jquery/dist/jquery.js:3552)
+[ERROR - 2017-06-15T05:22:42.405Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497504162386
+[ERROR - 2017-06-15T05:22:43.253Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497504163233
+[ERROR - 2017-06-15T05:22:44.041Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497504164040
+[ERROR - 2017-06-15T05:22:44.848Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497504164826
+[INFO  - 2017-06-15T05:28:49.254Z] GhostDriver - Main - running on port 9944
+[INFO  - 2017-06-15T05:28:49.850Z] Session [830200a0-518b-11e7-96a2-6d3f1dc9dab2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:28:49.850Z] Session [830200a0-518b-11e7-96a2-6d3f1dc9dab2] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:28:49.851Z] Session [830200a0-518b-11e7-96a2-6d3f1dc9dab2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:28:49.851Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 830200a0-518b-11e7-96a2-6d3f1dc9dab2
+[INFO  - 2017-06-15T05:28:52.898Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-06-15T05:29:07.179Z] GhostDriver - Main - running on port 11171
+[INFO  - 2017-06-15T05:29:07.745Z] Session [8dad5360-518b-11e7-8112-85bccb3374c7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:29:07.745Z] Session [8dad5360-518b-11e7-8112-85bccb3374c7] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:29:07.745Z] Session [8dad5360-518b-11e7-8112-85bccb3374c7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:29:07.746Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8dad5360-518b-11e7-8112-85bccb3374c7
+[INFO  - 2017-06-15T05:29:42.556Z] GhostDriver - Main - running on port 14737
+[INFO  - 2017-06-15T05:29:43.122Z] Session [a2c34660-518b-11e7-b488-7d8eb89ac331] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:29:43.122Z] Session [a2c34660-518b-11e7-b488-7d8eb89ac331] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:29:43.128Z] Session [a2c34660-518b-11e7-b488-7d8eb89ac331] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:29:43.129Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a2c34660-518b-11e7-b488-7d8eb89ac331
+[INFO  - 2017-06-15T05:30:36.294Z] GhostDriver - Main - running on port 28184
+[INFO  - 2017-06-15T05:30:36.908Z] Session [c2d2d330-518b-11e7-a650-3b26687bb9ef] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:30:36.908Z] Session [c2d2d330-518b-11e7-a650-3b26687bb9ef] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:30:36.909Z] Session [c2d2d330-518b-11e7-a650-3b26687bb9ef] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:30:36.909Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c2d2d330-518b-11e7-a650-3b26687bb9ef
+[INFO  - 2017-06-15T05:30:39.816Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-06-15T05:30:47.520Z] GhostDriver - Main - running on port 11650
+[INFO  - 2017-06-15T05:30:48.059Z] Session [c9782e10-518b-11e7-aae4-8f686d62483e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:30:48.060Z] Session [c9782e10-518b-11e7-aae4-8f686d62483e] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:30:48.061Z] Session [c9782e10-518b-11e7-aae4-8f686d62483e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:30:48.061Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c9782e10-518b-11e7-aae4-8f686d62483e
+[INFO  - 2017-06-15T05:30:50.857Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-06-15T05:37:12.002Z] GhostDriver - Main - running on port 21687
+[INFO  - 2017-06-15T05:37:12.593Z] Session [aea9e2d0-518c-11e7-98e7-c701b23f4a13] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:37:12.593Z] Session [aea9e2d0-518c-11e7-98e7-c701b23f4a13] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:37:12.593Z] Session [aea9e2d0-518c-11e7-98e7-c701b23f4a13] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:37:12.594Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aea9e2d0-518c-11e7-98e7-c701b23f4a13
+[INFO  - 2017-06-15T05:37:15.540Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-06-15T05:43:47.535Z] GhostDriver - Main - running on port 15388
+[INFO  - 2017-06-15T05:43:47.804Z] Session [9a3c6f60-518d-11e7-83a7-1bfe79e6928f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T05:43:47.804Z] Session [9a3c6f60-518d-11e7-83a7-1bfe79e6928f] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T05:43:47.804Z] Session [9a3c6f60-518d-11e7-83a7-1bfe79e6928f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T05:43:47.804Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9a3c6f60-518d-11e7-83a7-1bfe79e6928f
+[INFO  - 2017-06-15T05:43:50.321Z] ShutdownReqHand - _handle - About to shutdown
