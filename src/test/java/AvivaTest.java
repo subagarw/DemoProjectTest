@@ -15,7 +15,7 @@ public class AvivaTest {
 	  @BeforeTest
 	  public void beforeTest() {
 		  
-		  System.setProperty("phantomjs.binary.path", "/ext/tools/phantomjs-2.1.1-linux-x86_64/bin/phantomjs");
+		  System.setProperty("phantomjs.binary.path", "/phantomjs/phantomjs-2.1.1-linux-x86_64/bin/phantomjs");
 		  driver = new PhantomJSDriver();
 		System.out.println("stage1");
 
