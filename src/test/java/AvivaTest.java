@@ -46,7 +46,7 @@ public class AvivaTest {
 		WebElement login = driver.findElement(By.xpath("/html/body/div[1]/div/div/div[2]/div/div[3]/form/button"));
 		login.click();
 		WebElement error = driver.findElement(By.xpath("/html/body/div[1]/div/div/div[2]/div/div[2]/div/strong"));
-		Assert.assertFalse(error.isDisplayed());
+		Assert.assertTrue(error.isDisplayed());
   }
 
 
