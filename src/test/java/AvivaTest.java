@@ -22,14 +22,14 @@ public class AvivaTest {
 	  }
   @Test
   public void test1() {
-			driver.get("http://localhost");
+			driver.get("http://127.0.0.1:8080");
 			String title = driver.getTitle();	
 			System.out.println(title);
 			Assert.assertTrue(title.contains("aviva"));	
   }
   @Test
   public void test2() {
-	  driver.get("http://localhost");
+	  driver.get("http://127.0.0.1:8080");
 		WebDriverWait wait = new WebDriverWait(driver, 60);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("account-menu")));
 		WebElement menu = driver.findElement(By.id("account-menu"));
